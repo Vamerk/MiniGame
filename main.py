@@ -8,6 +8,7 @@ from SeaBattle import SeaBattleBoard
 from load_image import load_image
 from load_sound import load_sound
 
+
 # Начало работы с pygame
 #Здесь инициализируются основные параметры Pygame, такие как окно, иконка, часы и менеджер GUI.
 pygame.init()
