@@ -43,6 +43,7 @@ packages = [
     "os",
     "pygame",
     "pygame_gui",
+    "itertools",
 ]
 
 # Создайте объект Executable

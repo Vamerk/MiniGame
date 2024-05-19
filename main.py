@@ -71,7 +71,6 @@ class InfoScreen:
         pass  # Нет необходимости перезапускать информационный экран
 # Обновленный словарь с добавленным InfoScreen
 games_dict = {'Air Hockey (Аэрохоккей)': AH,
-              'Sea Battle (Морской Бой)': SB,
               'Tic Tac Toe (Крестики-нолики)': TicTacToe,
               'О программе': InfoScreen(screen)}
 
